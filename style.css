@@ -1,4 +1,4 @@
-div{
+.header{
     left: 0;
     height: 100px;
     right: 0;
@@ -80,4 +80,21 @@ p{
 }
 iframe{
     float: left;
+}
+#map{
+    margin-top: 50px;
+    margin-left: 625px;
+    margin-bottom: 22px;
+}
+#maintext{
+    clear: both;
+    line-height: 150%;
+    text-decoration: none;
+    text-align: justify;
+}
+#bemutato{
+    clear: both;
+    line-height: 150%;
+    text-decoration: none;
+    text-align: center; 
 }
